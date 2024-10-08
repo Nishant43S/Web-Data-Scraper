@@ -1,0 +1,26 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* download button */
+
+.image-download-btn{
+    width: 145px;
+    height: 41px;
+    padding: 6px 10px;
+    border: 1px solid #27296d;
+    color: #ffff;
+    background: none;
+    border-radius: 13px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    transition: 0.3s ease-in;
+}
+.image-download-btn:hover{
+    box-shadow: 0 0 15px #27296d;
+}
