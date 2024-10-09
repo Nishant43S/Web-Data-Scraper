@@ -64,16 +64,19 @@ Whether you're a researcher looking to collect data, a content creator in need o
 <br>
 
 
-
-
-
-
-
-
 https://github.com/user-attachments/assets/472419f2-247c-4a76-9823-909d97ff3cff
 
 
+<br>
+<br>
 
+<h3>Download as doc file</h3>
+
+
+
+
+
+https://github.com/user-attachments/assets/6141fd3f-7d0c-4fc3-9e1b-5da56d93a5e8
 
 
 
