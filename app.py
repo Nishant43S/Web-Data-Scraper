@@ -33,7 +33,7 @@ def insert_css(css_file:str):
         st.markdown(f"<style>{f.read()}</style>",unsafe_allow_html=True)
 
 ### insert external html file
-@st.cache_data
+# @st.cache_data
 def insert_html(html_file):
     with open(html_file) as f:
         return f.read()
