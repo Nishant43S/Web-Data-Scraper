@@ -31,6 +31,16 @@ Whether you're a researcher looking to collect data, a content creator in need o
         <ul>
           <li><b>Textual Content:</b> All paragraphs of text are extracted, ensuring that no important information is missed. This can be especially useful for research or content analysis.</li>
           <li><b>Headings (H1 to H6):</b> The app pulls all levels of headings (from H1 to H6) from the web page, making it easy to understand the structure and hierarchy of the content.</li>
+          <li><b>Hyperlinks:</b> All links embedded within the site are captured, allowing users to analyze both internal and external links, which can be beneficial for SEO analysis or link audits.</li>
+          <li><b>Lists (Ordered & Unordered):</b> Whether it’s a numbered or bullet-pointed list, the app extracts lists from the site, which can be useful for content that is presented in a structured or step-by-step format.</li>
+          <li><b>Images & Media:</b>
+              <ul>
+                  <li>Standard images like PNGs and JPEGs.</li>
+                  <li>SVG (Scalable Vector Graphics) images for scalable icons and graphics.</li>
+                  <li>GIFs (Graphics Interchange Format) for animated content.</li>
+              </ul>
+          </li>
+         <li><b>Tables:</b> Any tabular data on the website is extracted, which is particularly useful for users analyzing structured datasets or tables of information like statistics or comparison charts.</li>
         </ul>
   </li>
 </ul>
