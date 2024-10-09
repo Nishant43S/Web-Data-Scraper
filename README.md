@@ -15,6 +15,8 @@ Whether you're a researcher looking to collect data, a content creator in need o
 - Design an amazing css buttons for project link button, text download button,
 -  social media icons styling. make an amazing font awesome icons
 
+<h4>Social Handles</h4>
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-pal-51742a256/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/anjalipal659)
 
 
