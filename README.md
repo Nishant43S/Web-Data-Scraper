@@ -1,7 +1,7 @@
 
 # Web Data Scraper
 
-[app link](https://web-data-scraper-ou-minor-project.streamlit.app/)
+use app - [app link](https://web-data-scraper-ou-minor-project.streamlit.app/)
 
 The Web Scraper App is a robust, user-friendly tool developed using Streamlit, a framework designed for creating responsive web applications. This app is specifically designed to simplify the process of web scraping, allowing users to extract various types of content from websites without requiring any programming knowledge. It is highly responsive, working well across different devices, including desktops, laptops, tablets, and smartphones. The app offers two distinct modes: Simple Mode and Advanced Mode, each catering to different user needs for scraping data from websites.
 
