@@ -9,6 +9,13 @@ Whether you're a researcher looking to collect data, a content creator in need o
 
 ##
 
+## Contributors
+
+**Anjali Pal**: css styling
+- Design an amazing css buttons for project link button, text download button, social media icons styling. make an amazing font awesome icons
+
+##
+
 ![Screenshot 2024-10-09 103515](https://github.com/user-attachments/assets/fcee3a93-652f-4512-82ba-7ac40ab47423)
 
 ##
