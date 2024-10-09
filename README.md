@@ -18,7 +18,9 @@ Whether you're a researcher looking to collect data, a content creator in need o
         <li>Simple Mode</li>
         <li>Advance Mode</li>
     </ol>
+    
 ##
+
 <h3><b>Simple Mode Features</b></h3>
 
 <ul>
