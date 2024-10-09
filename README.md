@@ -7,7 +7,7 @@ The Web Scraper App is a robust, user-friendly tool developed using Streamlit, a
 
 Whether you're a researcher looking to collect data, a content creator in need of specific information, or a developer looking to analyze site structures, the Web Scraper App provides an efficient solution for scraping and downloading website content.
 
-
+##
 
 <h2>Contributor</h2>
 
@@ -149,7 +149,6 @@ https://github.com/user-attachments/assets/6141fd3f-7d0c-4fc3-9e1b-5da56d93a5e8
 ##
 
 <h2>Use Cases</h2>
-
 
 <ul>
     <li><b>Research & Data Collection:</b> Researchers can use the app to gather information from websites quickly and organize it for analysis or reporting.</li>
