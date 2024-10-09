@@ -91,5 +91,28 @@ https://github.com/user-attachments/assets/472419f2-247c-4a76-9823-909d97ff3cff
 
 https://github.com/user-attachments/assets/6141fd3f-7d0c-4fc3-9e1b-5da56d93a5e8
 
+##
+
+<h3><b>Advanced Mode Features</b></h3>
+
+
+<ul>
+    <li><b>Customizable Scraping with Checkboxes:</b> Advanced Mode is designed for users who want more control over the scraping process. In this mode, users can selectively scrape specific types of content using checkboxes. This feature allows for fine-tuning of the scraping process, ensuring that only the relevant information is captured. For instance, you can choose to scrape only paragraphs, images, or lists, depending on your needs.
+        <ul>
+            <li>Paragraph Checkbox: Scrape only the paragraph content, excluding other elements.</li>
+            <li>Links Checkbox: Extract only the hyperlinks from the website</li>
+            <li>Lists Checkbox: Focus on lists without downloading other content.</li>
+            <li>Headings Checkbox: Download just the headings (H1-H6), which is useful for analyzing the content’s structure.</li>
+            <li>Images Checkbox: Select images, including SVG and GIF formats, to download only the visual content of the site.</li>
+            <li>Tables Checkbox: If your goal is to capture tabular data, simply check the box to scrape only the tables.</li>
+            <li>Code Checkbox: If the site contains programming snippets, use this option to scrape code examples without the additional text content.</li>
+        </ul>
+    </li>
+    <li><b>Enhanced Control for Specific Data Extraction:</b> This feature is especially useful for researchers or professionals who need to focus on specific content types while ignoring the rest. For instance, marketers may only need links, while data analysts might be interested solely in tables and code snippets. The checkboxes make it simple to customize the scraping process to suit these varied requirements.</li>
+    <li><b>Download the Website’s Full Source Code:</b> In addition to scraping visible content, Advanced Mode also provides the option to download the website’s full HTML source code. This feature is particularly useful for developers and web designers who want to analyze or experiment with the website’s underlying structure and design elements. The source code includes all HTML, CSS, and JavaScript embedded on the site, giving full access to the site’s architecture for further exploration.</li>
+</ul>
+
+
+
 
 
