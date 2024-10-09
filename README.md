@@ -165,3 +165,25 @@ https://github.com/user-attachments/assets/6141fd3f-7d0c-4fc3-9e1b-5da56d93a5e8
 
 ###
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Nishant43S/Web-Data-Scraper.git
+```
+
+
+
+Install dependencies
+
+```bash
+  pip install -r "requirements.txt"
+```
+
+Start the app
+
+```bash
+  python -m streamlit run app.py
+```
+
