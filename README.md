@@ -137,7 +137,6 @@ https://github.com/user-attachments/assets/6141fd3f-7d0c-4fc3-9e1b-5da56d93a5e8
 ##
 
 <h2>Why Use Web Scraper App?</h2>
-
 <ul>
     <li><b>Ease of Use:</b> The Web Scraper App is designed with simplicity in mind. You don’t need any coding knowledge to use the app. The interface is clean and intuitive, with clear options for both simple and advanced users.</li>
     <li><b>Flexibility:</b> Whether you want to scrape an entire site or focus on specific elements, this app offers flexibility to meet various scraping needs. With customizable checkboxes in Advanced Mode, you can easily tailor the scraping process to capture only the data you’re interested in.</li>
