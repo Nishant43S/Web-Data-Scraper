@@ -46,3 +46,34 @@ Whether you're a researcher looking to collect data, a content creator in need o
   </li>
   <li><b>Download All Content as a DOC File:</b> After the scraping process is completed, users can download the entire scraped content as a DOC (Microsoft Word) file. This format is highly versatile, allowing for easy editing, sharing, and printing of the data. It’s especially useful for those looking to compile reports or research based on the scraped content.</li>
 </ul>
+
+![Screenshot 2024-10-09 113114](https://github.com/user-attachments/assets/c03903ba-a238-4952-b61b-b1653bda3743)
+
+<br>
+<br>
+
+![Screenshot 2024-10-09 113135](https://github.com/user-attachments/assets/4fae700e-7213-4de7-98c6-4d8e4ab2305e)
+
+<br>
+<br>
+
+![Screenshot 2024-10-09 113213](https://github.com/user-attachments/assets/5803efce-186e-4b77-90a6-4fa16d95b741)
+
+
+<br>
+<br>
+
+
+
+
+
+
+![scree](https://github.com/user-attachments/assets/f44a7737-d52c-4035-aa3b-5b2077269fa2)
+
+
+
+
+
+
+
+
