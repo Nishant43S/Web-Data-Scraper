@@ -9,7 +9,7 @@ Whether you're a researcher looking to collect data, a content creator in need o
 
 
 
-## Contributors
+## Contributor
 
 **Anjali Pal**: css styling
 - Design an amazing css buttons for project link button, text download button,
