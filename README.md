@@ -41,6 +41,8 @@ Whether you're a researcher looking to collect data, a content creator in need o
               </ul>
           </li>
          <li><b>Tables:</b> Any tabular data on the website is extracted, which is particularly useful for users analyzing structured datasets or tables of information like statistics or comparison charts.</li>
+        <li><b>Code Snippets (like from W3Schools, etc.):</b> The app can also capture any embedded code blocks or programming snippets, making it helpful for developers or students looking to learn from code examples.</li>
         </ul>
   </li>
+  <li><b>Download All Content as a DOC File:</b> After the scraping process is completed, users can download the entire scraped content as a DOC (Microsoft Word) file. This format is highly versatile, allowing for easy editing, sharing, and printing of the data. It’s especially useful for those looking to compile reports or research based on the scraped content.</li>
 </ul>
