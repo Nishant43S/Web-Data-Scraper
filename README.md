@@ -5,17 +5,9 @@ The Web Scraper App is a robust, user-friendly tool developed using Streamlit, a
 
 Whether you're a researcher looking to collect data, a content creator in need of specific information, or a developer looking to analyze site structures, the Web Scraper App provides an efficient solution for scraping and downloading website content.
 
+## app link
+use app - [app link](https://web-data-scraper-nishant-maity.streamlit.app/)
 
-
-<h2>Contributor</h2>
-
-**Anjali Pal**: css styling
-- Design an amazing css buttons for project link button, text download button,
--  social media icons styling. make an amazing font awesome icons
-
-<h4>Social Handles</h4>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-pal-51742a256/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/anjalipal659)
 
 
 ##
@@ -187,6 +179,5 @@ Start the app
 
 ##
 
-## app link
-use app - [app link](https://web-data-scraper-ou-minor-project.streamlit.app/)
+
 
